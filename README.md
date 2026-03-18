@@ -91,7 +91,7 @@ example.com_recon_report.json
 ```
 
 
-## Performance
+## Performance Characteristics
 
 * Efficient concurrent host verification
 * Low-latency socket scanning operations
